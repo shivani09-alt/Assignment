@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_url_is_not_valid">Enter URL is Not Valid</string>
+</resources>
